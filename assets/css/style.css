@@ -1,0 +1,13 @@
+ footer{
+    font-size: 1.75rem;
+    
+}
+
+footer a{
+    color:white;
+}
+
+footer a:hover {
+    color: gray;
+  }
+  
